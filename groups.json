@@ -1,0 +1,27 @@
+{
+    "Race":
+    {
+        "column_name":"RAC1P",
+        "preprocess": 0,
+        "advantaged": 1.0,
+        "disadvantaged":2.0
+    },
+    
+    "Sex":
+    {
+        "column_name":"SEX",
+        "preprocess":0,
+        "advantaged": 1.0,
+        "disadvantaged":2.0
+    },
+    
+    "Age":
+    {
+        "column_name":"AGEP",
+        "preprocess":1,
+        "threshold": 40,
+        "advantaged": 0,
+        "disadvantaged":1
+    }   
+
+}
